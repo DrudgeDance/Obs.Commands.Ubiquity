@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "b8b9d403f643a4fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b42eef86fbad20e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ubiquity Unifi-Talk.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1dc8a14ceedcc3cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad838ee28667336d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13bedde777f65202",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7755d37e198f4124",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6eeaa6497934ecf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "22a36da7fa942ce6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "940c74899a49838a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ubiquity Unifi-Talk.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4b42eef86fbad20e",
+  "lastOpenFiles": [
+    "Ubiquity Unifi-Talk.md",
+    "README Commands Ubiquity.md"
+  ]
+}
