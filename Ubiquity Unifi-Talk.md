@@ -15,3 +15,10 @@
 
 > root@ubnt:/# service unifi-talk start
 
+# SIP Trunk Tuts
+
+- https://rosnovsky.us/blog/twillio-and-unifi-talk
+
+
+# AP Commands
+ uname -a
